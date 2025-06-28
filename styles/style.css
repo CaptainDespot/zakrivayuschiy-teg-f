@@ -181,7 +181,7 @@
 }
 
 .button__text {
-  font-family: var(--accent-font-family), fantasy;
+  font-family: var(--accent-font-family), sans-serif;
   font-size: 14px;
   line-height: 90%;
   mix-blend-mode: difference;
@@ -256,8 +256,8 @@
   text-transform: uppercase;
 }
 
-.sparks { 
-  opacity: 0; 
+.sparks {
+  opacity: 0;
 }
 
 .contour {
