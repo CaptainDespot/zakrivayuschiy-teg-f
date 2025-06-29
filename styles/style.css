@@ -268,7 +268,7 @@
 .like-icon {
   width: 39px;
   height: 36px;
-  transition: transform 0.3s ease; 
+  transition: transform 0.3s ease;
 }
 
 .like-icon:hover .core {
