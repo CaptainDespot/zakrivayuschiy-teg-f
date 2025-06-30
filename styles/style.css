@@ -50,7 +50,7 @@
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 56px;
+  gap: 60px;
 }
 
 .card {
@@ -351,6 +351,10 @@
   .header {
     width: 100%;
     padding-block: 118px;
+  }
+
+  .main-content {
+    gap: 56px;
   }
 
   .label {
